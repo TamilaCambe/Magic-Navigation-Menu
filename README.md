@@ -12,7 +12,7 @@ Magic Navigation Menu Indicator. Curve Outside Effects
 
 #
 
-![homepage](https://github.com/TamilaCambe/Magic-Navigation-Menu/blob/main/gif.gif)
+![homepage](https://github.com/TamilaCambe/Magic-Navigation-Menu/blob/main/Gif%20com%20%C3%ADcone%20branco.gif)
 
 ## 💻 Technologies used
 
