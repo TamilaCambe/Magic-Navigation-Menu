@@ -64,6 +64,8 @@ body {
 
 .navigation ul li.active a .icon {
     transform: translateY(-32px);
+    color: white;
+    
 }
 
 .navigation ul li a .text {
