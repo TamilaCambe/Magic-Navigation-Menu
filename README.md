@@ -23,5 +23,5 @@ Magic Navigation Menu Indicator. Curve Outside Effects
 
 * CSS;
 
-* JavaScript
+
 
